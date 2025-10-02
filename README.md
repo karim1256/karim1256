@@ -13,7 +13,7 @@
 <p align="left">Fresh Computer Science graduate with a focus on cross-platform mobile development using Flutter and a strong interest in UI/UX design. I build clean, maintainable apps using modern architectures and care deeply about performance and user experience.<br><br>🔭 Currently: Flutter Developer Intern at Ideas & Concepts Group (remote).<br><br>🌱 Seeking: Full-time Flutter role to deliver polished mobile experiences.</p>
 
 ###
-<h2 align="left">🚀 Featured Projects</h2>
+<h2 align="left"> Featured Projects</h2>
 
 ###
 
